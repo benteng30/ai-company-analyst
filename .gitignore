@@ -221,3 +221,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- AI Company Analyst ---
+# Downloaded SEC filings (re-download with code instead)
+data/
+
+# Chroma vector database (rebuilt from the filings)
+chroma_db/
+
+# SQLite databases (rebuilt by script)
+*.db
+*.sqlite
+
+# Mac system files
+.DS_Store
