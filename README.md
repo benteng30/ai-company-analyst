@@ -27,4 +27,5 @@ Python · Google Gemini API · Chroma · SQLite · yfinance · Streamlit · Goog
 
 ## Author
 Ben Teng, UMass Amherst (Isenberg, Operations & Information Management)
-[LinkedIn](https://www.linkedin.com/in/ben-teng)
+
+[LinkedIn](https://www.linkedin.com/in/ben-teng) · [Portfolio](https://benteng30.github.io/)
